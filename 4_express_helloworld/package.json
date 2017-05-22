@@ -1,0 +1,13 @@
+{
+  "name": "4_express_helloworld",
+  "version": "1.0.0",
+  "description": "Sample Express HelloWorld Application",
+  "dependencies": {
+    "express": "4.14.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sai Kurra",
+  "license": "ISC"
+}
